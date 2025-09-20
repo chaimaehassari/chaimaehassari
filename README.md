@@ -1,6 +1,6 @@
 <div align="center">
   
-![Feminine Coding Banner](https://i.pinimg.com/originals/75/87/df/7587df77ef521cf98057d0028ee983f1.gif)  
+![Feminine Coding Banner](https://i.pinimg.com/736x/c9/ec/19/c9ec19bdd57f588822bbc64065c919b6.jpg)  
 
 
 # 👩‍💻 Chaimae Hassari
@@ -58,17 +58,7 @@ Hello! I'm Chaimae, a passionate Full Stack Developer who loves creating beautif
 
 
 
-## 📊 GitHub Analytics
 
-<div align="center">
-  
-![Chaimae's GitHub Stats](https://github-readme-stats.vercel.app/api?username=CHAMAE-HASSARI&show_icons=true&theme=dracula&hide_title=true&count_private=true&bg_color=45,ff9a9e,fad0c4&text_color=ffffff&icon_color=ff69b4)  
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CHAMAE-HASSARI&layout=compact&theme=dracula&hide_title=true&bg_color=45,ff9a9e,fad0c4&text_color=ffffff)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=CHAMAE-HASSARI&theme=dracula&hide_border=true&background=45%2Cff9a9e%2Cfad0c4)
-
-</div>
 
 ---
 
